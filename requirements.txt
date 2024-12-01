@@ -32,3 +32,7 @@ colorama~=0.4
 paginate~=0.5
 regex>=2022.4
 requests~=2.26
+mkdocs-video
+mkdocs-rss-plugin
+mkdocs-glightbox
+mkdocs-categories-plugin
