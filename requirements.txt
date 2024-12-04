@@ -36,3 +36,4 @@ mkdocs-video
 mkdocs-rss-plugin
 mkdocs-glightbox
 mkdocs-categories-plugin
+mkdocs-redirects
